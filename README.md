@@ -1,30 +1,14 @@
-<div class="github-bio">
-  <h1>Hi, I’m Fima 👋</h1>
-  <p class="title">
-    Frontend Developer • Junior Java Developer • CS Graduate (EWU)
-  </p>
+# Hi, I’m Fima 👋
 
-  <p class="about">
-    I enjoy building clean, responsive, and user-friendly web interfaces.
-    Currently sharpening my frontend skills while strengthening my Java (OOP) fundamentals.
-  </p>
+**Frontend Developer | Junior Java Developer | CS Graduate (EWU)**
 
-  <ul class="skills">
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Tailwind CSS</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Java (OOP)</li>
-    <li>Git & GitHub</li>
-  </ul>
+I build clean, responsive, and user-friendly web interfaces.  
+Currently focusing on frontend development and Java (OOP).
 
-  <div class="links">
-    <a href="linkedin.com/in/fima-faria-lisa-45533a3a4" target="_blank">
-      LinkedIn
-    </a>
-    <a href="mailto:fimafarialisa.official@gmail.com">
-      Email
-    </a>
-  </div>
-</div>
+### 🛠 Skills
+- HTML, CSS, Tailwind CSS  
+- JavaScript, React  
+- Java (OOP), Git & GitHub  
+
+🔗 [LinkedIn](linkedin.com/in/fima-faria-lisa-45533a3a4)  
+✉️ fimafarialisa.work@gmail.com
