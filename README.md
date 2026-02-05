@@ -20,10 +20,10 @@
   </ul>
 
   <div class="links">
-    <a href="https://www.linkedin.com/in/fima-faria-lisa" target="_blank">
+    <a href="linkedin.com/in/fima-faria-lisa-45533a3a4" target="_blank">
       LinkedIn
     </a>
-    <a href="mailto:ffl.work@gmail.com">
+    <a href="mailto:fimafarialisa.official@gmail.com">
       Email
     </a>
   </div>
